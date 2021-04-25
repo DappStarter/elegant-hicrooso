@@ -1,0 +1,16 @@
+{
+    "name": "BTEK-TOKEN",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "BTECH BILISIM TOKEN",
+        "/category/asset_value_tracking/token/symbol": "BTEK",
+        "/category/asset_value_tracking/token/decimals": "8",
+        "/category/asset_value_tracking/token/supply": "100000000"
+    }
+}
